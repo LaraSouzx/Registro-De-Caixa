@@ -1,0 +1,3 @@
+D:/CLionProjects/Proj-registro/cmake-build-debug/CMakeFiles/Proj_registro.dir
+D:/CLionProjects/Proj-registro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Proj-registro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
